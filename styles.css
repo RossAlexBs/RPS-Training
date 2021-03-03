@@ -22,6 +22,10 @@ header > h1 {
 }
 
 .tap {
+    border: 3px solid white;
+    border-radius: 4px;
+    width: fit-content;
+    padding: 5px 5px;
     text-align: center;
     color: white;
     font-family: Asap, sans-serif;
@@ -32,13 +36,17 @@ header > h1 {
 }
 
 .again {
+   border: 3px solid white;
+    border-radius: 4px;
+    width: fit-content;
+    padding: 5px 5px;
     text-align: center;
     color: white;
     font-family: Asap, sans-serif;
     font-weight: bold;
     font-size: 20px;
     margin-top: 40px;
-    color: #e2584d;
+    color: #e2584d;;
 }
 
 .score-board {
