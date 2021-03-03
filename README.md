@@ -1,2 +1,3 @@
 # training-rps
-just for training purposes. No ownership of pngs.
+Just for training purposes. I followed an online tutorial: https://youtu.be/jaVNP3nIAv0
+Pngs from NKShukla.
